@@ -22,6 +22,10 @@
     
 }
 
+.navbar .navbar-nav .nav-link {
+    color: #FCF9F9;
+}
+
 .nav-item {
     color: 080808; 
     padding-left: 100px;
