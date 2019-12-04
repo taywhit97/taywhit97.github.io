@@ -44,7 +44,7 @@
     grid-column: 1 / 5;
     grid-row: 6 / 7;
     padding-left: 175px;
-    margin-top: 50px;
+    margin-top: 0px;
     margin-bottom: 80px;
      
 }
@@ -69,8 +69,8 @@
     grid-row: 5 / 6;
     text-align: center;
     font-family: Raleway;
-    padding-top: 40px;
-    font-size: 1.4em;
+    padding-top: 10px;
+    font-size: 1.7em;
     font-weight: 600;
 }
 
@@ -95,16 +95,16 @@
     padding-right: 50px;
 }
 
-.footer {
+footer {
     grid-column: 1 / 5;
-    grid-row: 9 / 12; 
-    text-align: center;
-    background-color: #707070;
+    grid-row: 9 / 11; 
     font-family: Raleway;
-    border: none; 
-    padding-bottom: 20px;
+    background-color: #817D7D;
+    text-align: center;
+    padding: 10px;
+    margin-top: 50px;
+    
 }
-
 .navigation {
     font-size: 0.9em; 
     color:#080808;
@@ -130,9 +130,10 @@
 }
 
 .Contact {
-    font-size: 0.9em;
+    font-size: 0.95em;
     color:#080808;
     border: none; 
+    
     
     
 }
@@ -142,6 +143,7 @@
 .email{
     font-size: 0.75em;
     font-weight: 545;
+    
     
     
 }

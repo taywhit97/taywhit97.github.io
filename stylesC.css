@@ -35,15 +35,20 @@
 }
 
 
-.footer {
+footer {
     grid-column: 1 / 5;
-    grid-row: 9 / 12; 
-    text-align: center;
-    background-color: #707070;
+    grid-row: 9 / 11; 
     font-family: Raleway;
-    border: none; 
-    padding-bottom: 20px;
-
+    background-color: #817D7D;
+    text-align: center;
+    padding: 10px;
+    margin-top: 50px;
+    
+}
+.navigation {
+    font-size: 0.9em; 
+    color:#080808;
+    padding-left: 5px;
 }
 
 .home,
@@ -56,19 +61,18 @@
     
 }
 
-.Contact {
-    font-size: 0.9em;
-    color:#080808;
-    border: none; 
-    
-}
-
 .link {
    color:#080808; 
 }
 
 .link:hover {
     color: #FCF9F9;
+}
+
+.Contact {
+    font-size: 0.95em;
+    color:#080808;
+    border: none; 
 }
 
 .fas,
